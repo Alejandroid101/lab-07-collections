@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Library
 {
-    class Author
+    public class Author
     {
         public string FirstNAme { get; set; }
         public string LastName { get; set; }
